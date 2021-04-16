@@ -3,8 +3,9 @@
 // Used by Game_Test.rc
 //
 #define BLAZE_CURSOR                    2
+#define IDC_CURSOR1                     101
+#define IDC_CURSOR2                     102
 #define IDI_ICON1                       103
-#define GAME_ICON                       103
 #define IDI_ICON2                       104
 
 // Next default values for new objects

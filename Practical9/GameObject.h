@@ -54,6 +54,8 @@ public:
 	D3DXVECTOR3 acceleration;
 	D3DXVECTOR3 direction;
 	D3DXVECTOR3 scaling;
+	float force;
+	float mass;
 
 	void setPosition(D3DXVECTOR3 position);
 	D3DXVECTOR3 getPosition();

@@ -48,6 +48,12 @@
     <ClCompile Include="P9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Spaceship1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spaceship2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CollisionManager.h">
@@ -83,7 +89,10 @@
     <ClInclude Include="P9.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="resource1.h">
+    <ClInclude Include="Spaceship1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spaceship2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
